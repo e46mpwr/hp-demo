@@ -15,7 +15,9 @@ export default function Home() {
       <main>  
         <div className="split left">  
             <div className="right-justified">
-                <Header title="Welcome to my app!" />
+                <div className="left-justified ">
+                <Header title="Build Shared Experiences using client side JavaScript with the Croquet Library and Framework!" />
+        </div>
                 <p className="description">
                     Get started by editing <code>pages/index.js</code>
                 </p>
